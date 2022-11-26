@@ -15,7 +15,7 @@ public class Repositori2 {
         System.out.println("Hello World!");
         System.out.println("DANIEL ");
         System.out.println("ERICK ");
-        //System.out.println("HERBER");
-        //System.out.println("ALEX");
+        System.out.println("HERBER");
+        System.out.println("ALEX");
     }
 }
